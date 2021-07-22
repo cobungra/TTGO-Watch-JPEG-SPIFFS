@@ -2,6 +2,7 @@
 Sample for TTGO Watch 2020v1
 Acknowledging the huge work of  https://github.com/Bodmer/TFT_eSPI
 This is an example of load and display JPG images from SPIFFS
+Upload suitable images to SPIFFS using the IDE or other method (240x240px at 0,0 for full screen).
 */
 #define LILYGO_WATCH_2020_V1              // Using T-Watch2020
 #include <LilyGoWatch.h>

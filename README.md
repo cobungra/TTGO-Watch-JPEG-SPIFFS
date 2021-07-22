@@ -4,7 +4,8 @@ Rather than convert images, I had the need to dynamically load images to the wat
 To use this, the only requirment is a suitable JPEG image maximmum size 240x240px.
 
 The code shows how one image is loaded, and has an example that cycles through all JPG in the SPIFFS "root".
-![IMG_4513](https://user-images.githubusercontent.com/25142892/126584672-89ed8215-e5ff-4cb3-9e41-525151b05d9b.jpeg)
-![IMG_4514](https://user-images.githubusercontent.com/25142892/126584683-005874ab-1653-4eca-85cd-1cc09695afc1.jpeg)
+![IMG_4513](https://user-images.githubusercontent.com/25142892/126589242-091c8f37-b97a-40e9-80af-50b115214f59.jpeg)
+![IMG_4514](https://user-images.githubusercontent.com/25142892/126589245-f816f653-196a-40a2-b239-bd3223ee9e37.jpeg)
+
 
 This code example loads a named image, then cycles through all JPEGs in the SPIFFS root.

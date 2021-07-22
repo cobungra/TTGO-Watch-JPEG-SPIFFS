@@ -1,6 +1,6 @@
 # TTGO-Watch-JPEG-SPIFFS
 This is simply a demonstration of how Bodmer's  https://github.com/Bodmer/TFT_eSPI library can be used with the TTGO Watch 2020 v1
-Rather than convert images, I had the need to dynamically load images to the watch and have them displayed.
+Rather than convert images to C arrays, I had the need to dynamically load images to the watch and have them displayed.
 To use this, the only requirment is a suitable JPEG image maximmum size 240x240px.
 
 The code shows how one image is loaded, and has an example that cycles through all JPG in the SPIFFS "root".
